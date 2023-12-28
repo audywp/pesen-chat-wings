@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16293264608",
+    "project_id": "pesan-chat",
+    "storage_bucket": "pesan-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16293264608:android:18e592b5ce76743ec3a485",
+        "android_client_info": {
+          "package_name": "com.pesan_cet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs53iux8JMN_Y2LU3j3Ffgjx74A9dxZJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
