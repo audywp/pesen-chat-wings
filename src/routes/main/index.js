@@ -10,7 +10,7 @@ const BottomTab = createBottomTabNavigator();
 
 export default function MainRoute() {
   return (
-    <BottomTab.Navigator initialRouteName="feed">
+    <BottomTab.Navigator initialRouteName="contact">
       <BottomTab.Screen name="contact" component={Contact} />
       <BottomTab.Screen name="profile" component={Profile} />
       <BottomTab.Screen name="feed" component={Feed} />

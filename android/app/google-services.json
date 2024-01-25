@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "16293264608",
+    "firebase_url": "https://pesan-chat-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "pesan-chat",
     "storage_bucket": "pesan-chat.appspot.com"
   },
